@@ -44,7 +44,7 @@ social_media:
   # unsplash: your_username
   # vk: your_username
   # website: http://your_website_url
-  youtube: https://www.youtube.com/channel/UCxR5MHpIrhMIRN4qrPA6_Zg
+  youtube: /channel/UCxR5MHpIrhMIRN4qrPA6_Zg
 
 topics:
   - name: CSS
